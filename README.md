@@ -1,1 +1,4 @@
-# shell-script
+
+A collection of simple Bash scripts.
+
+Getting Started
