@@ -1,4 +1,4 @@
 
 A collection of simple Bash scripts.
 
-Getting Started
+<H1> Getting Started </H1>
